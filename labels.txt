@@ -1,0 +1,72 @@
+Fresh Cantaloupes
+Spoiled Onions
+Spoiled Pineapples
+SpoiledRaspberries
+SpoiledRice
+Spoiled Watermelons
+Spoiled Yoghurts
+Fresh Butter
+Fresh Broccolis
+Fresh Bread
+Spoiled Breads
+Rotten Pomegranate
+Rotten Guava
+Rotten Grape
+Fresh Pomegranate
+Fresh Guava
+Fresh Grape
+Rotten Strawberry
+Rotten Mango
+Fresh Strawberry
+Fresh Mango
+Fresh Carrot
+Rotten BellPepper
+Rotten Tomato
+Rotten Potato
+Rotten Oranges
+Rotten Cucumbers
+Rotten banana
+Rotten Apples
+Fresh Tomato
+Fresh Potato
+Fresh Oranges
+Fresh Bellpeppers
+Fresh Banana
+Fresh Apples
+Bottled Waters
+Sugar
+Eggs
+Cereals
+Canned Goods
+Soy sauce
+chips
+Flour
+Cooking oils
+Fresh Cauliflowers
+Fresh Cheese
+Fresh Leafy Greens
+Fresh Milk
+Fresh Onions
+Fresh Kiwi
+Fresh Pineapples
+Fresh Raspberries
+Fresh Rice
+Fresh Watermelons
+Fresh Yoghurt
+Fresh Cucumbers
+Juice
+Ketchup
+Nuts
+Pastas
+Popcorns
+Rotten Carrots
+Soft Drinks
+Spice And Herbs
+Spoiled Cheese
+Spoiled Milk
+Spoiled broccolis
+Spoiled Butter
+Spoiled cantaloupes
+Spoiled cauliflowers
+Spoiled Kiwis
+Spoiled leafy greens
